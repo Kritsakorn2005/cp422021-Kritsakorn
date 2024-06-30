@@ -70,7 +70,7 @@ import VerticalNavLayout from '@layouts/components/VerticalNavLayout.vue'
         <!-- eslint-enable -->
 
         <h1 class="font-weight-medium leading-normal text-xl text-uppercase">
-          Kritsakorn
+          Kritsakornnn
         </h1>
       </RouterLink>
 
